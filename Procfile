@@ -1,1 +1,1 @@
-meili: ./meilisearch
+worker: ./meilisearch
