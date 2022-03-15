@@ -1,1 +1,1 @@
-worker: ./meilisearch
+worker: vendor/bin/heroku-php-apache2 ./meilisearch
